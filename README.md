@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oussama !!!
-- 👀 I’m interested in coding 
+- 👀 interested in coding 
 - 🌱 I’m currently learning coding , but slowly
 - 💞️ I’m looking to collaborate on learning abilities on Python
 - 📫 How to reach me Via Linkedin oussamaamdouni
